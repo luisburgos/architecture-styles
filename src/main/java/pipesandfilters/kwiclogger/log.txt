@@ -1,0 +1,12 @@
+16:19:39 | 2015/08/28 | DescomponerCadena | Mensaje de la clase DescomponerCadena
+16:19:39 | 2015/08/28 | CombinarCadena | Mensaje de la clase CombinarCadena
+16:19:39 | 2015/08/28 | OrdenaCadena | Mensaje de la clase OrdenarCadena
+16:19:39 | 2015/08/28 | Salida | Mensaje de la clase Salida
+10:42:13 | 2015/08/31 | DescomponerCadena | Mensaje de la clase DescomponerCadena
+10:42:13 | 2015/08/31 | CombinarCadena | Mensaje de la clase CombinarCadena
+10:42:13 | 2015/08/31 | OrdenaCadena | Mensaje de la clase OrdenarCadena
+10:42:13 | 2015/08/31 | Salida | Mensaje de la clase Salida
+17:20:38 | 2015/09/17 | DescomponerCadena | Mensaje de la clase DescomponerCadena
+17:20:38 | 2015/09/17 | CombinarCadena | Mensaje de la clase CombinarCadena
+17:20:38 | 2015/09/17 | OrdenaCadena | Mensaje de la clase OrdenarCadena
+17:20:38 | 2015/09/17 | Salida | Mensaje de la clase Salida
